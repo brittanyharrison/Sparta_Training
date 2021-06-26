@@ -6,21 +6,20 @@
 
 ## Week 2: Python 
 
--[ ] [Git and GitHub](https://github.com/brittanyharrison/engi_89_github_setup)
--[ ] Variables 
--[ ] [Data types]-() and operators 
--[ ] Collections, Control flow
--[ ] Package management 
--[ ] [OOP](https://github.com/brittanyharrison/engi_89_python_oop)
--[ ] Classes, Methods, Functions
+- [ ] [Git and GitHub](https://github.com/brittanyharrison/engi_89_github_setup)
+- [ ] Variables 
+- [ ] [Data types]-() and operators 
+- [ ] Collections, Control flow
+- [ ] [OOP](https://github.com/brittanyharrison/engi_89_python_oop)
+- [ ] Classes, Methods, Functions
  
 ## Week 3 : Python (cont.)
--[ ] Unit testing 
--[ ] CSV, JSON & XML handling 
--[ ] SQL
--[ ] HTTP/APIs
--[ ] OS package for security, env settings and more 
--[ ] Secure development principles
+- [ ] Unit testing 
+- [ ] CSV, JSON & XML handling 
+- [ ] SQL
+- [ ] HTTP/APIs
+- [ ] OS package for security, env settings and more 
+- [ ] Secure development principles
 
 ## Week 4 : Python MVC and Project 
 
