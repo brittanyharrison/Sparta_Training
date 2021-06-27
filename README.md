@@ -3,14 +3,17 @@
 ## Week 1 : Business Week 
 
 - Elevator Pitch 
+- [x ] Sparta profile 
+-
 
 ## Week 2: Python 
 
-- [ ] [Git and GitHub](https://github.com/brittanyharrison/engi_89_github_setup)
-- [ ] Variables 
-- [ ] [Data types]-() and operators 
-- [ ] Collections, Control flow
-- [ ] [OOP](https://github.com/brittanyharrison/engi_89_python_oop)
+- [ x ] [Git and GitHub](https://github.com/brittanyharrison/engi_89_github_setup)
+- [ x ] Variables - Exercise 
+- [ x ] [Data types]-() and operators - Exercise 
+- [ x ] Collections - Exercise 
+- [ ] Control flow - Exercise
+- [ ] [OOP](https://github.com/brittanyharrison/engi_89_python_oop) - Exercise
 - [ ] Classes, Methods, Functions
  
 ## Week 3 : Python (cont.)
