@@ -8,13 +8,13 @@
 
 ## Week 2: Python 
 
-- [ x ] [Git and GitHub](https://github.com/brittanyharrison/engi_89_github_setup)
-- [ x ] Variables - Exercise 
-- [ x ] [Data types]-() and operators - Exercise 
-- [ x ] Collections - Exercise 
-- [ ] Control flow - Exercise
-- [ ] [OOP](https://github.com/brittanyharrison/engi_89_python_oop) - Exercise
-- [ ] Classes, Methods, Functions
+- [x] [Git and GitHub](https://github.com/brittanyharrison/engi_89_github_setup)
+- [x] Variables - Exercise 
+- [x] [Data types]-() and operators - Exercise 
+- [x] Collections - Exercise 
+- [x] Control flow - Exercise
+- [x] [OOP](https://github.com/brittanyharrison/engi_89_python_oop) - Exercise
+- [x] Classes, Methods, Functions
  
 ## Week 3 : Python (cont.)
 - [ ] Unit testing 
