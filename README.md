@@ -2,7 +2,7 @@
 
 ## Week 1 : Business Week 
 
-- [x] Elevator Pitch 
+- [x] [Elevator Pitch](https://github.com/brittanyharrison/elevator_pitch) 
 - [x] Sparta profile 
 - [x] [Interview prep](https://github.com/brittanyharrison/interview_prep)
 
