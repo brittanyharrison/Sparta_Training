@@ -17,12 +17,13 @@
 - [x] Classes, Methods, Functions
  
 ## Week 3 : Python (cont.)
-- [ ] Unit testing 
-- [ ] CSV, JSON & XML handling 
-- [ ] SQL
-- [ ] HTTP/APIs
-- [ ] OS package for security, env settings and more 
-- [ ] Secure development principles
+- [x] [Test Driven Development (TDD)](https://github.com/brittanyharrison/python_TDD) - [Task](https://github.com/brittanyharrison/tdd_tast_task)
+- [ ] API
+- [ ] Working with files
+- [ ] Exception Handling 
+- [ ] Building Python packages
+- [ ] Python Exam Practice 
+- [ ] Python Assessment 
 
 ## Week 4 : Python MVC and Project 
 
