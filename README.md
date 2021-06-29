@@ -21,7 +21,7 @@
 - [ ] API
 - [ ] Working with files
 - [ ] Exception Handling 
-- [ ] Building Python packages
+- [x] [Building Python packages](https://github.com/brittanyharrison/building_packages) - [Task](https://github.com/brittanyharrison/packages_task)
 - [ ] Python Exam Practice 
 - [ ] Python Assessment 
 
