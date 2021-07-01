@@ -18,11 +18,10 @@
  
 ## Week 3 : Python (cont.)
 - [x] [Test Driven Development (TDD)](https://github.com/brittanyharrison/python_TDD) - [Task](https://github.com/brittanyharrison/tdd_tast_task)
-- [ ] API
-- [ ] Working with files
-- [ ] Exception Handling 
+- [ ] [API](https://github.com/brittanyharrison/python_api)
+- [x] [Working with files and Exception Handling](https://github.com/brittanyharrison/exception_handling_working_with_files) - [Task](https://github.com/brittanyharrison/file_and_exception-_task)
 - [x] [Building Python packages](https://github.com/brittanyharrison/building_packages) - [Task](https://github.com/brittanyharrison/packages_task)
-- [ ] Python Exam Practice 
+- [ ] [Python Exam Practice](https://github.com/brittanyharrison/python_assessment_practice) 
 - [ ] Python Assessment 
 
 ## Week 4 : Python MVC and Project 
