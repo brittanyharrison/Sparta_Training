@@ -37,13 +37,20 @@
 - [ ] Multi-machine Environment 
 
 ## Week 6: Quality Gates and Project 
-
 - [x] [Web-scrapping Project Repository](https://github.com/brittanyharrison/WebScrapping_Group_Project)
-- [ ] Quality Gate interview
+- [ ] Quality Gate interview - PASSED!
 
 ## Week 7 : AWS and Networking
+- Cloud Services(AWS)
+- CLI/CD -jenkins
+- AWS Services:EC2,S3,SG,Subnet,VPC,NACLs,Autoscaling
+- Bastion Server/Jump Box
+
 
 ## Week 8 : IAC configuration management with Ansible
+- ansible
+- packer
+- terraform 
 
 ## Week 9 : IAC orchestration with Terraform 
 
